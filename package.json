@@ -1,5 +1,9 @@
 {
 	"author": "SpyingEnvelope",
+	"description": "A project that does stuff. You know, this or that",
+	"keywords": ["freecodecamp", "spyingenvelope", "project"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
